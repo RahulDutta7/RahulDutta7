@@ -8,7 +8,6 @@
 </p>
 
 ## 🚀 About Me
-- 💻 Building **SellerSquare**, a full-stack e-commerce platform (4 Next.js apps in one monorepo)
 - 🎓 IBM Certified GenAI Engineer · Certified Prompt Engineer (ChatGPT)
 - 🌱 Currently learning: DSA (daily LeetCode), system design
 - 🎯 Looking for: Full-stack / Frontend developer roles
