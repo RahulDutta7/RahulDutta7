@@ -43,5 +43,5 @@ A multi-app e-commerce platform modelled on Amazon and Flipkart.
 ## 📊 Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=RahulDutta7&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://leetcard.jacoblin.cool/YOUR-LC-USERNAME?theme=dark&font=Karla&ext=heatmap" height="165">
+  <img src="https://leetcard.jacoblin.cool/Developer_Rahul_07?theme=dark&font=Karla&ext=heatmap" height="165">
 </p>
